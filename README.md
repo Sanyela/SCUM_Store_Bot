@@ -91,7 +91,6 @@ GET /add_blance/
 SCUM_Store_Bot/
 ├── app.py              # 主程序
 ├── requirements.txt    # 依赖列表
-├── config.py          # 配置文件
 └── README.md          # 项目文档
 ```
 
