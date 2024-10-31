@@ -1,0 +1,8 @@
+Flask==2.0.1
+pyautogui==0.9.53
+psutil==5.8.0
+pyperclip==1.8.2
+keyboard==0.13.5
+pywin32==303
+PySocks==1.7.1
+PyGetWindow==0.0.9
